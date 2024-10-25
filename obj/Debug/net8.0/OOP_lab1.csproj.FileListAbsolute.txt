@@ -1,0 +1,14 @@
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/bin/Debug/net8.0/OOP_lab1
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/bin/Debug/net8.0/OOP_lab1.deps.json
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/bin/Debug/net8.0/OOP_lab1.runtimeconfig.json
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/bin/Debug/net8.0/OOP_lab1.dll
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/bin/Debug/net8.0/OOP_lab1.pdb
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.AssemblyInfoInputs.cache
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.AssemblyInfo.cs
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.csproj.CoreCompileInputs.cache
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.dll
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/refint/OOP_lab1.dll
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.pdb
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/OOP_lab1.genruntimeconfig.cache
+/home/bogdan/Рабочий стол/labs/OOP_labs/OOP_lab1/obj/Debug/net8.0/ref/OOP_lab1.dll

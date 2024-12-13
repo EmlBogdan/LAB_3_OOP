@@ -1,17 +1,17 @@
 class GameFactory
-{
-    public static GameBase CreateGame(string gameType)
     {
-        switch (gameType)
+
+        public static Game CreateGame(string gameType, int gameIndex, Player opponentName1, Player opponentName2, Player winner, int rating)
         {
-            case "Standard":
-                return new StandardGame();
-            case "Training":
-                return new TrainingGame();
-            case "SinglePlayer":
-                return new SinglePlayerGame();
-            default:
-                throw new ArgumentException("Unknown game type");
+
+            switch (gameType.ToLower())
+            {
+                case "standart":
+                    return new StandartGame(gameIndex, opponentName1, opponentName2, winner, 0);
+                case "training":
+                    return new TrainingGame(gameIndex, opponentName1, opponentName2, winner, 0);
+                default:
+                    throw new ArgumentException("Invalid game type");
+            }
         }
     }
-}
